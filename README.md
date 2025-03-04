@@ -2,7 +2,7 @@
 
 A web-based encryption tool built with Django that provides multiple encryption methods for text encryption and decryption. This tool allows users to encrypt text using Caesar Cipher, Vigenère Cipher, and Morse Code, with options to download encrypted text and upload files for decryption.
 
-![Encryption Tool Screenshot](screenshots/encryption_tool.png)
+
 
 ## Features
 
