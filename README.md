@@ -43,5 +43,3 @@ A web-based encryption tool built with Django that provides multiple encryption 
 - Django 5.0+
 - Web browser
 
-### Setup
-1. Clone the repository
